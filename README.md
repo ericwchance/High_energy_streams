@@ -1,6 +1,9 @@
 # High_energy_streams
+
 Global Identification of High Energy Streams with Google Earth Engine
+
 Abstract:
+
 A viable method to identify high energy stream segments on a global scale using the 
 Google Earth Engine API was developed. This analysis is intended to identify stream 
 segment and significant geographic features that for reasons such as inaccessible 
