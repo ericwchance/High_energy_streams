@@ -13,4 +13,7 @@ identified. Stream gradient was determined through a neighborhood analysis of 3x
 of this analysis is limited by several factors, primarily the coarse resolution and errors 
 within the DEM dataset and the difficulty of performing neighborhood based analysis in 
 the Earth Engine environment, addition of these functions to Earth Engine could 
-significantly improve its functionality for terrain based analysis
+significantly improve its functionality for terrain based analysis. 
+
+Poster:
+https://drive.google.com/file/d/0B0U8gN_Q7wIJN1pCSUQydDE5V2c/view?usp=sharing
